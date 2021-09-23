@@ -1,2 +1,2 @@
 #!/bin/bash
-mimetype -a "school"
+!: mime -a "school"
