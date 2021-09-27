@@ -1,2 +1,2 @@
 #!/bin/bash
-short list | uniq -u list  
+short | uniq -u   
