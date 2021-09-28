@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i user /etc/passwd | sort  
+grep -v  'user' /etc/passwd | sort  
